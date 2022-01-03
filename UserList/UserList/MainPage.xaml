@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="UserList.MainPage"
+             Padding="20">
+
+    <StackLayout Orientation="Vertical">
+        <StackLayout Orientation="Horizontal">
+            <Entry Placeholder="Search a User"
+                   x:Name="userSearchEntry"
+                   WidthRequest="200"
+                   Completed="searchUsers"/>
+            <Button Text="Add User"
+                    Clicked="newUserForm"/>
+        </StackLayout>
+
+        <StackLayout Orientation="Vertical">
+            <ListView x:Name="userListView"
+                      ItemTapped="userDescription" />
+        </StackLayout>
+    </StackLayout>
+</ContentPage>

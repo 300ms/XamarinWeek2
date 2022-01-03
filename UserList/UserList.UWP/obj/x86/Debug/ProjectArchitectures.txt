@@ -1,0 +1,1 @@
+C:\Users\Idesse\source\repos\UserList\UserList\UserList.UWP\UserList.UWP.csproj;x86

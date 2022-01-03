@@ -1,0 +1,17 @@
+C:\Users\Idesse\source\repos\UserList\UserList\UserList\obj\Debug\netstandard2.0\UserList.csproj.AssemblyReference.cache
+C:\Users\Idesse\source\repos\UserList\UserList\UserList\obj\Debug\netstandard2.0\UserList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Idesse\source\repos\UserList\UserList\UserList\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Idesse\source\repos\UserList\UserList\UserList\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Idesse\source\repos\UserList\UserList\UserList\obj\Debug\netstandard2.0\UserList.AssemblyInfoInputs.cache
+C:\Users\Idesse\source\repos\UserList\UserList\UserList\obj\Debug\netstandard2.0\UserList.AssemblyInfo.cs
+C:\Users\Idesse\source\repos\UserList\UserList\UserList\obj\Debug\netstandard2.0\UserList.csproj.CoreCompileInputs.cache
+C:\Users\Idesse\source\repos\UserList\UserList\UserList\obj\Debug\netstandard2.0\UserList.dll
+C:\Users\Idesse\source\repos\UserList\UserList\UserList\obj\Debug\netstandard2.0\ref\UserList.dll
+C:\Users\Idesse\source\repos\UserList\UserList\UserList\obj\Debug\netstandard2.0\UserList.pdb
+C:\Users\Idesse\source\repos\UserList\UserList\UserList\bin\Debug\netstandard2.0\UserList.deps.json
+C:\Users\Idesse\source\repos\UserList\UserList\UserList\bin\Debug\netstandard2.0\UserList.dll
+C:\Users\Idesse\source\repos\UserList\UserList\UserList\bin\Debug\netstandard2.0\ref\UserList.dll
+C:\Users\Idesse\source\repos\UserList\UserList\UserList\bin\Debug\netstandard2.0\UserList.pdb
+C:\Users\Idesse\source\repos\UserList\UserList\UserList\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Idesse\source\repos\UserList\UserList\UserList\obj\Debug\netstandard2.0\NewUserForm.xaml.g.cs
+C:\Users\Idesse\source\repos\UserList\UserList\UserList\obj\Debug\netstandard2.0\UserDetails.xaml.g.cs

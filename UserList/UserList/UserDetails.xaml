@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="UserList.UserDescription">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label x:Name="userIdLabel"
+                   FontSize="12" />
+
+            <Entry x:Name="userFirstNameEntry"
+                   FontSize="12" />
+
+            <Entry x:Name="userLastNameEntry"
+                   FontSize="12" />
+
+            <Entry x:Name="userAgeEntry"
+                   FontSize="12" />
+
+            <Button Text="Edit User"
+                x:Name="editUserButton"
+                Clicked="editUser"
+                VerticalOptions="Center"
+                HorizontalOptions="Start"/>
+
+            <Button Text="Delete User"
+                x:Name="deleteUserButton"
+                Clicked="deleteUser"
+                VerticalOptions="Center"
+                HorizontalOptions="Start"/>
+            
+            <Button Text="Go Back"
+                x:Name="backToListButton"
+                Clicked="backToList"
+                VerticalOptions="Center"
+                HorizontalOptions="Start"/>
+
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

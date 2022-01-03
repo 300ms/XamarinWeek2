@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="UserList.NewUserForm">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label x:Name="userFirstNameLabel"
+                   FontSize="12"
+                   Text="Enter First Name"/>
+
+            <Entry x:Name="userFirstNameEntry"
+                   Placeholder="First Name"/>
+
+            <Label x:Name="userLastNameLabel"
+                   FontSize="12"
+                   Text="Enter Last Name"/>
+
+            <Entry x:Name="userLastNameEntry"
+                   Placeholder="Last name"/>
+
+            <Label x:Name="userAgeLabel"
+                   FontSize="12"
+                   Text="Enter Age"/>
+
+            <Entry x:Name="userAgeEntry"
+                   Placeholder="Age"/>
+
+            <Button Text="Add User"
+                x:Name="addAndBackToListButton"
+                Clicked="addAndBackToList"
+                VerticalOptions="Center"
+                HorizontalOptions="Start"/>
+
+            <Button Text="Go Back"
+                x:Name="backToListButton"
+                Clicked="backToList"
+                VerticalOptions="Center"
+                HorizontalOptions="Start"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
