@@ -39,7 +39,7 @@ namespace UserList
             if (!String.IsNullOrEmpty(filter))
             {
                 ObservableCollection<User> ul = new ObservableCollection<User>();
-                // ul = (ObservableCollection<User>)UserList.Where(x => x.firstName.ToLower().Contains(filter.ToLower()) || x.lastName.ToLower().Contains(filter.ToLower()));
+                ul = new ObservableCollection<User>(UserList.Where(x => x.firstName.ToLower().Contains(filter.ToLower()) || x.lastName.ToLower().Contains(filter.ToLower())));
                 userListView.ItemsSource = ul;
             }
             else
